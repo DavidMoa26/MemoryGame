@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\MemoryGame\MemoryGame\bin\Debug\net6.0\MemoryGame.exe
+C:\Users\david\source\repos\MemoryGame\MemoryGame\bin\Debug\net6.0\MemoryGame.deps.json
+C:\Users\david\source\repos\MemoryGame\MemoryGame\bin\Debug\net6.0\MemoryGame.runtimeconfig.json
+C:\Users\david\source\repos\MemoryGame\MemoryGame\bin\Debug\net6.0\MemoryGame.dll
+C:\Users\david\source\repos\MemoryGame\MemoryGame\bin\Debug\net6.0\MemoryGame.pdb
+C:\Users\david\source\repos\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.AssemblyInfo.cs
+C:\Users\david\source\repos\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.dll
+C:\Users\david\source\repos\MemoryGame\MemoryGame\obj\Debug\net6.0\refint\MemoryGame.dll
+C:\Users\david\source\repos\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.pdb
+C:\Users\david\source\repos\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.genruntimeconfig.cache
+C:\Users\david\source\repos\MemoryGame\MemoryGame\obj\Debug\net6.0\ref\MemoryGame.dll
